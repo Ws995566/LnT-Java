@@ -1,1 +1,1 @@
-# LnT-Java
+kami membuat aplikasi Apotek untuk memanage apa saja yang ada dalam apotek tersebut, kami juga membuat database, fitur yang ada antara lain, login sebagai admin, mengatur jumlah barang, melakukan pembelian barang.
